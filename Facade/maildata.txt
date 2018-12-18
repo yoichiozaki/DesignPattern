@@ -1,0 +1,2 @@
+zak@sample.com=zak
+nakamoto.satoshi@bitcoin.com=satoshi nakamoto
